@@ -25,7 +25,7 @@
 
 电脑打网页开 https://bean.m.jd.com ，打开调试模式（F12），刷新页面，然后 复制 Cookie
 
-![image-20201231174832802](../.vuepress/public/image-20201231174832802.png)
+![](https://gitee.com/xiaoxiunique/picgo-image/raw/master/atips/20201231175239.png)
 
 
 
