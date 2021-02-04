@@ -52,3 +52,6 @@ fork [项目](https://github.com/xiaoxiunique/schedule-jd)
 
 
 随后会在每天10 点运行 次项目 获取每日京豆
+
+
+## 经过测试发现，基本上设置一次 Cookie 可以管 一个月左右
